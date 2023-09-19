@@ -7,9 +7,10 @@ import { GithubService } from './services/github.service';
 import { PersonalInfoComponent } from './components/personal-info/personal-info.component';
 import { RepositoriesComponent } from './components/repositories/repositories.component';
 import { PanelComponent } from 'src/app/shared';
+import { OrganizationsComponent } from './components/organizations/organizations.component';
 
 @NgModule({
-  declarations: [GithubComponent, PersonalInfoComponent, RepositoriesComponent],
+  declarations: [GithubComponent, PersonalInfoComponent, RepositoriesComponent, OrganizationsComponent],
   exports: [GithubComponent],
   imports: [CommonModule, HttpClientModule, PanelComponent],
   providers: [GithubService],
