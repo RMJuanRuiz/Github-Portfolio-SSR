@@ -1,4 +1,7 @@
 # Github Portfolio
+Github portfolio applying SSR and using Github API to show current profile information and repositories.
+
+![Screenshot 2023-09-19 at 6 10 37 PM](https://github.com/RMJuanRuiz/Github-Portfolio-SSR/assets/49765252/0b34a0e7-5f23-4ede-a0ad-59bf772f7701)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
